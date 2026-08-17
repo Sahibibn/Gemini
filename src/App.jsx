@@ -1,4 +1,8 @@
+<h1 className="text-5xl font-bold text-red-500">
+  React is working
+</h1>
 import React, { useRef, useState } from "react";
+
 import { GoogleGenAI } from "@google/genai";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
